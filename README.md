@@ -10,7 +10,7 @@ This project allows managing student records including registration, updates, an
 - Data stored in MySQL database
 
 ## Screenshots
-![Screenshot](Screenshot/2026-03-16 11_30_07-Settings.png)
+(Screenshot/2026-03-16 11_30_07-Settings.png)
 
 ## Requirements
 - Java JDK 8 or higher
